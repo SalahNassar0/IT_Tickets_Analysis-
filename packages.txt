@@ -1,3 +1,5 @@
+chromium-browser
+chromium-chromedriver
 libgl1-mesa-glx
 libegl1-mesa
 libxrandr2
